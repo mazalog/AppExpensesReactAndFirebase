@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+*To run the project on your localhost you need to add the api for the firebase connection in the src/firebase-Config address*
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
